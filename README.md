@@ -9,9 +9,6 @@
 <h3>
   🎓 I have recently completed a bootcamp at _nology as well as attained a First Class Honours in BSc Computer Science at the Univeristy of Liecester.
 </h3>         
-<h3>
-  ⚙️ I am also currently working on an Instagram clone currently.
-</h3>
 </div>
 
 <hr style="border:2px solid gray"> </hr>
@@ -41,7 +38,7 @@
 
  <div align="center">
  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sjeromekithinji&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jeromekithinji&show_icons=true&theme=tokyonight"/>
 </a>
  </div>
 
