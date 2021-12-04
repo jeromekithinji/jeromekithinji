@@ -1,17 +1,18 @@
 ## Hi I'm Jerome <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-[![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeromekithinji/)
 
 <hr style="border:2px solid gray"> </hr>
 
-<div align="center">
- <h3>
-  🖥️ I am a full stack developer based in Leicester, United Kingdom.
-</h3>  
-<h3>
-  🎓 I have recently completed a bootcamp at _nology as well as attained a First Class Honours in BSc Computer Science at the Univeristy of Liecester.
-</h3>         
+<div align="left">
+ - :desktop_computer: I am a full stack developer based in Leicester, United Kingdom.
+ - 🎓 I have recently completed a bootcamp at _nology as well as attained a First Class Honours in BSc Computer Science at the Univeristy of Liecester.
+- 🌱 I’m currently learn TypeScript
+ - :paperclip: [My Resume/CV](https://github.com/jeromekithinji/_portfolio/blob/main/assets/pdf/Jerome%20Kithinji%20CV.pdf)
+ - <p> <a href = "jeromekithinji.github.io/_portfolio/" target = "_blank"> :notebook: Personal Portfolio </a> </p> 
 </div>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeromekithinji/)
+
 
 <hr style="border:2px solid gray"> </hr>
 
@@ -39,7 +40,7 @@
 <hr style="border:2px solid gray"> </hr>
 
  <div align="center">
- <a href="https://github.com/anuraghazra/github-readme-stats">
+ <a margin-right="10px" href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=jeromekithinji&show_icons=true&theme=tokyonight"/>
 </a>
  <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -47,15 +48,6 @@
 </a>
  </div>
 
-
-<!--
-**SalimAbdala27/SalimAbdala27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on an Instagram clone.
-- 🌱 I’m currently learning Next.js
-- 👯 I am collaborating on a Crypto Project.
 
 <!--
 **jeromekithinji/jeromekithinji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
