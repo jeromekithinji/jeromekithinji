@@ -1,11 +1,14 @@
 <h2 align="center"> Hi, I'm Jerome <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> </h2> 
 
-- :desktop_computer: I am a full stack developer based in Leicester, United Kingdom.
-- 🎓 I have recently completed a bootcamp at _nology as well as attained a First Class Honours in BSc Computer Science at the Univeristy of Leicester.
-- 🌱 I’m currently learning TypeScript.
+- :man_technologist: I’m a passionate Full Stack Developer with expertise in both frontend and backend technologies.
+- 🌍 With over 3 years of experience, I’ve worked on diverse projects across Europe and Africa in sectors like banking, telecommunications, and services.
+- 🎓 Currently pursuing my Master's degree in Advanced Computer Science at Concordia University, Canada.
+- 🌱 Always eager to learn and explore new technologies, I’m currently enhancing my skills in TypeScript and advanced web development.
+- 💡 I love bridging technology and design, building applications that are user-friendly and efficient.
+- 👨‍💻 I also work on freelance projects, so feel free to reach out if you need a website or application!
 
-- :paperclip: [My Resume/CV](https://github.com/jeromekithinji/_portfolio/blob/main/assets/pdf/Jerome%20Kithinji%20CV.pdf)
-- :notebook: [Personal Portfolio](jeromekithinji.github.io/_portfolio/)
+- :paperclip: [My Resume/CV](https://github.com/jeromekithinji/portfolio/blob/main/assets/pdf/Jerome%20Kithinji%20CV.pdf)
+- :notebook: [Personal Portfolio](jeromekithinji.github.io/portfolio/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeromekithinji/)
 
