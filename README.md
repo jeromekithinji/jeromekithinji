@@ -3,7 +3,7 @@
 - :man_technologist: I’m a passionate Full Stack Developer with expertise in both frontend and backend technologies.
 - 🌍 With over 3 years of experience, I’ve worked on diverse projects across Europe and Africa in sectors like banking, telecommunications, and services.
 - 🎓 Currently pursuing my Master's degree in Advanced Computer Science at Concordia University, Canada.
-- 🌱 Always eager to learn and explore new technologies, I’m currently enhancing my skills in TypeScript and advanced web development.
+- 🌱 Always eager to learn and explore new technologies, I’m currently enhancing my skills in advanced web development and understanding AI applications.
 - 💡 I love bridging technology and design, building applications that are user-friendly and efficient.
 - 👨‍💻 I also work on freelance projects, so feel free to reach out if you need a website or application!
 
