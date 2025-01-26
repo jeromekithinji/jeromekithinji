@@ -7,7 +7,7 @@
 - 💡 I love bridging technology and design, building applications that are user-friendly and efficient.
 - 👨‍💻 I also work on freelance projects, so feel free to reach out if you need a website or application!
 
-- :paperclip: [My Resume/CV](https://github.com/jeromekithinji/portfolio/blob/main/assets/pdf/Jerome%20Kithinji%20CV.pdf)
+<!-- - :paperclip: [My Resume/CV](https://github.com/jeromekithinji/portfolio/blob/main/assets/pdf/Jerome%20Kithinji%20CV.pdf) -->
 - :notebook: [Personal Portfolio](jeromekithinji.github.io/portfolio/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeromekithinji/)
